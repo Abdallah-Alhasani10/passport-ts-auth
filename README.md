@@ -19,8 +19,8 @@ This is a simple Node.js authentication project using [Express](https://expressj
 
 ## 🛠️ Setup & Installation
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/passport-ts-auth.git
+git clone https://github.com/Abdallah-Alhasani10/passport-ts-auth.git
 cd passport-ts-auth
